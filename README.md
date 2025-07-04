@@ -1,4 +1,4 @@
-# SE-Dev_Project - CampusConnect
+# CampusConnect
 
 ## Description
 CampusConnect is a Web Application for all students that allows them to keep up with the clubs they want to follow.
